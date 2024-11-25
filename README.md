@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yaghi27
-- 👀 I’m interested in Web programming
-- 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on web projects
+- 👀 I’m interested in Artificial Intelligence
+- 🌱 I’m currently doing MS AI for Media
+- 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me yaghianthony55@gmail.com
 
 <!---
